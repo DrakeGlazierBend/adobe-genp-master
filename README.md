@@ -20,4 +20,4 @@ Homepage: https://adobe-genp-master.softyx.xyz
 ## 🔧 What it does
 1. **Edition Upgrade:** Switch between product editions while preserving activation state.
 2. **Log & Reporting:** Detailed activation logs for auditing and troubleshooting.
-3. **Portable Execution:** Run directly from USB without installation or registry changes.
+3. **Portable Execution:** Run directly from USB without installation or registry changes. 
